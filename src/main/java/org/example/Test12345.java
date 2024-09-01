@@ -5,5 +5,6 @@ public class Test12345 {
         System.out.println("1:56");
         System.out.println("1:58");
         System.out.println("1:57");
+        System.out.println("1:59");
     }
 }
