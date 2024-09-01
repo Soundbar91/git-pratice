@@ -7,5 +7,7 @@ public class Test123 {
         System.out.println("1:32");
         System.out.println("1:33");
         System.out.println("1:34");
+        System.out.println("1:31");
+        System.out.println("1:32");
     }
 }
