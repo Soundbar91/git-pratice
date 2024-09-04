@@ -8,5 +8,6 @@ public class Main {
         System.out.println("1:35");
         System.out.println("2:00");
         System.out.println("2:33");
+        System.out.println("12:05");
     }
 }
