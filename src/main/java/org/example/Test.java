@@ -7,5 +7,6 @@ public class Test {
         System.out.println("1:07");
         System.out.println("1:08");
         System.out.println("1:09");
+        System.out.println("12:06");
     }
 }
